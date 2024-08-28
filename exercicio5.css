@@ -1,0 +1,29 @@
+* {
+    font-family: Helvetica , sans-serif;
+}
+.style {
+    margin:40px auto;
+    padding: 2px;
+    width: 190px;
+    height: 25px;
+}
+.button {
+    margin: 40px auto;
+    width: 150px;
+    height: 33px;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #d3d3d3;
+    width: 700px;
+    height: 520px;
+    border: solid 2px rgb(20, 20, 20);
+}
+.caixa {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    text-align: center;
+
+}
